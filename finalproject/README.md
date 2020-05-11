@@ -7,3 +7,7 @@ Fusion file:
 
 Final Result (rendered):
 ![GitHub Logo](Gym_end.png)
+
+Final Result (unrendered - front):
+
+FInal Result (unrendered - back):
