@@ -6,5 +6,4 @@ The project is meant to be manufactured by 3D printing and laser cutting, as wel
 Fusion file: 
 
 Final Result (rendered):
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Tgjgjghgjgext](url)
+![GitHub Logo](Gym_end.png)
