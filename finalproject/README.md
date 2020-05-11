@@ -1,21 +1,10 @@
-# Final Project
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-Emphasis
+# Final Project: Gym Machine
+##Overview
+This final project is essentially a mechanism of an automata built in Autodesk Fusion 360. It is an embodiment of my aspirations and desire to start a healthy lifestyle by going to gym every day. The automaton is an Alter-Ego of me that never feels lazy because it is a machine and always attends the gym sessions. 
+The project is meant to be manufactured by 3D printing and laser cutting, as well as adding some parts cut from fabric. In order to assemble the automata and make it work, 5 mm bolts and nuts, as well as two stepper motors and a servo motor are needed along with the Arfuino motor shield. 
 
-*This text will be italic*
-_This will also be italic_
+Fusion file: 
 
-**This text will be bold**
-__This will also be bold__
-
-_You **can** combine them_
-Lists
-
-Unordered
-
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+Final Result (rendered):
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
