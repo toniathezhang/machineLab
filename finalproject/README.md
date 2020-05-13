@@ -112,9 +112,23 @@ https://drive.google.com/drive/folders/1JbdvnoVaY9cgZVuwGch3VDQiPa0U6ql_?usp=sha
 
 ![](assembly.png)
 
-## April 27th What works in Fusion might not work in real life!
+## April 27th and 29th: What works in Fusion might not work in real life!
 
-## April 29th
+Indeed. You can make gigantic projects in Fusion, but how will you fabricate it?
+At that time, the question of fabrication and communicating with ERB arose. 
+I decided that my pieces would be either 3D printed or laser cut. 
+One problem that I encountered was that one of the pieces was too large to be 3D printed. Luckly, that particular piece had holes only on the larger surface, so it could be done with a laser cutter as well. The only thing is, it has to be dense - arounf 10 or 20 mm. I am talking about the wall piece that is holding everything otgether. 
+
+I also received feedback regarding the redundancy of some of the pieces, for example the red little "walls". So I removed them.
+Another thing I did was adding more holes to make sure that the side wall pieces and the blue ground could be put together using 5 mm bolts and nuts (**all holes are 5 mm**). **I did not think about this at all, and forgot that it is only in Fusion where we can just defy gravity and leave things hanging in the air, sticking parts together by putting them next to each other, etc.**
+
+Before:
+
+![](initial.png)
+
+After:
+
+![](holes.png)
 
 ## May 3rd: Adding Motors
 
