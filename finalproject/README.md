@@ -92,9 +92,27 @@ OK. Now the design itself.
 
 ![](initial.png)
 
-## April 22nd: 
+the neck linkages were a pain to make, but Michael kindly provided a very concise 5-minute tutorial with some nice-sounding BGM and it helped a lot.
 
-## April 27th
+![](neck.png)
+
+**What I learnt:**
+- for linkages, always copy the components to make them exactly the same. I was lazy and made random pieces that were similar, but because they were not identical, it resulted in a conflict.
+- in general, ALWAYS COPY. I had the same issue of joint conflict when making the arms. Now, as you can see, only one arm is attached to the stick. It was supposed to be two but I could not attach it even after I remade all arm pieces to be identical. I thought that that might as well be just a Fusion problem, so I decided to move on. 
+- think through the order of joints. Sometimes it might be more efficient to make the rigid joints first, other times revolute.
+- it is of course better to set the dimensions first, but doing the design without dimensions is also possible. Just make sure that you understand the size of the initial piece, for example head, to approximate the size of the rest of the pieces. 
+**Also, a very useful tool "Inspect-Measure" used in order to check the distance from one end of a piece to another.**
+
+## April 22nd: Performing Automata in Fusion
+
+I really wanted to see my mechanism in full motion. How every piece would move simultaneously, without me togling with the tiny flag next to each joint. Found an informative and concise tutorial: https://youtu.be/zHOIoZxtjjk "How to animate assembly in Fusion 360"
+
+Made my own animation (uploaded as a google drive folder link - just enter it):
+https://drive.google.com/drive/folders/1JbdvnoVaY9cgZVuwGch3VDQiPa0U6ql_?usp=sharing
+
+![](assembly.png)
+
+## April 27th What works in Fusion might not work in real life!
 
 ## April 29th
 
