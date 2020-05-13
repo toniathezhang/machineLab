@@ -5,13 +5,15 @@ The project is meant to be manufactured by 3D printing and laser cutting, as wel
 
 Fusion file: https://a360.co/3ctY64r
 
-Final Result (rendered):
-![GitHub Logo](Gym_end.png)
-
-Final Result (unrendered - front):
 
 
-FInal Result (unrendered - back):
+Final Result (front):
+
+
+Final Result (front with joints):
+
+
+FInal Result (back):
 
 
 ## April 1st: Initial Brainstorm - Themes&Ideas
@@ -42,3 +44,6 @@ FInal Result (unrendered - back):
 ## May 6th
 
 ## May 11th: More Final Touches
+
+Final Result (rendered):
+![GitHub Logo](Gym_end.png)
