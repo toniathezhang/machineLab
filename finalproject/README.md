@@ -130,9 +130,23 @@ After:
 
 ![](holes.png)
 
-## May 3rd: Adding Motors
+## May 3rd: Adding Motors and Shaft Couplers
 
-## May 6th: Final Touches - how to attach the motor?
+Another question arose: how am I going to attach my motors to the rods?
+- using shaft couplers.
+I downloaded one that was sent to everyone in the class and modified it a bit by extending the coupler and adding another hole for more stability.
+
+original:
+![](coupler.png)
+
+modified:
+![](coupled.png)
+
+At this point, things look like this:
+
+![](motorhang.png)
+
+## May 6th: Final Touches
 
 ## May 11th: More Final Touches
 
