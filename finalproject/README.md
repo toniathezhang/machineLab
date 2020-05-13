@@ -10,6 +10,7 @@ Final Result (rendered):
 
 Final Result (unrendered - front):
 
+
 FInal Result (unrendered - back):
 
 
@@ -27,3 +28,17 @@ FInal Result (unrendered - back):
 
 
 ## April 14th: I changed the idea!
+
+## April 15th and 20th
+
+## April 22nd
+
+## April 27th
+
+## April 29th
+
+## May 3rd
+
+## May 6th
+
+## May 11th: More Final Touches
