@@ -66,6 +66,9 @@ Especially this:
 
 ![](running.png)
 
+So I needed to have three easy mechanisms in one place. Here is what I came up with:
+![](IMG_1442.PNG)
+
 ## April 15th and 20th
 
 ## April 22nd
