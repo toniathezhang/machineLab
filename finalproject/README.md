@@ -20,7 +20,7 @@ FInal Result (back):
 
 
 ## April 1st: Initial Brainstorm - Themes&Ideas
-![kj](aideas.jpg)
+![kj](aideas.png)
 
 ## April 6th: Arriving at a sketch
 
