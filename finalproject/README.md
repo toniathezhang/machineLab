@@ -24,6 +24,7 @@ FInal Result (back):
 
 We were given the homework to come up with three ideas of the themes that we all would stick to.
 In the picture below you can see my initial ideas and also a design of the big clock, where we would put all our mechanisms.
+
 ![kj](aideas.png)
 
 ## April 6th: Arriving at a sketch
@@ -33,7 +34,12 @@ I did some research, and I bumped into some amazing mechanisms that Tim Hunkin m
 
 So my initial sketch was inspired by this nose picking machine. I understand that nose picking alone can't be a hobby, so I added blinking and head shaking too. :-DDDDDDDD
 Here it is. 
+
 ![](nose_picking.png)
+
+![](blinking.png)
+
+![](head_shaking.png)
 
 ## April 8th: Defining the sketch
 
