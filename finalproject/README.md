@@ -10,6 +10,8 @@ Final Result (front):
 
 ![GitHub Logo](frontno.png)
 
+**Note: the legs are supposed to be made of fabric/paper**
+
 Final Result (front with joints):
 
 ![GitHub Logo](frontyes.png)
@@ -70,19 +72,35 @@ Especially this:
 
 So I needed to have three easy mechanisms in one place. So I came up with a Gym Machine which would have three movements: running, turning a disk like the automata in the picture above, and ehhhh stretching neck? shouting motivational quotes? (I had to add a third motion so anything could do the job):
 
+
 ![](IMG_1442.PNG)
 
-## April 15th and 20th
+**Difficulties: I realised that making the legs in Fusion might be too much work in terms of eliminating conflicts in joints. Since we are to make the machine in real life after all, i decided to employ the same technique as in the picture from youtube - making the legs from fabric/paper.**
+**So the final version would not have Fusion legs!**
 
-## April 22nd
+We will see other issues during the process of actually making the machine in Fusion. 
+
+## April 15th and 20th: I made the machine in Fusion! Now it's only the matter of adding on and fine-tuning.
+
+During one of the days from 14th fo 20th, I decided to sit down and just make the whole thing. Which I did.
+I made all three mechanisms and they worked perfectly. 
+I even found a way to color all the parts in 1 second using Component Color Cycling Toggle tool:
+
+![](toggle.png)
+
+OK. Now the design itself.
+
+![](initial.png)
+
+## April 22nd: 
 
 ## April 27th
 
 ## April 29th
 
-## May 3rd
+## May 3rd: Adding Motors
 
-## May 6th
+## May 6th: Final Touches - how to attach the motor?
 
 ## May 11th: More Final Touches
 
