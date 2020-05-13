@@ -5,10 +5,9 @@ The project is meant to be manufactured by 3D printing and laser cutting, as wel
 
 Fusion file: https://a360.co/3ctY64r
 
-
-
 Final Result (front):
-
+Final Result (rendered):
+![GitHub Logo](Screenshot 2020-05-13 at 21.07.36)
 
 Final Result (front with joints):
 
