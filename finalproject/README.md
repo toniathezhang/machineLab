@@ -41,12 +41,22 @@ Here it is.
 
 ![](head_shaking.png)
 
-## April 8th: Defining the sketch
+## April 8th and 13th: Defining the sketch & Defining dimensions, tools, materials
+After class discussions I found out that the initial idea of head shaking would not work. I was hoping to attach the head to the edge of a disk and have it rotated by a stepper motor, but it the head was attached rigidly, it would end up going in circles and rotating 360 degrees - which is not how a human head works. Moreover, this would make the neck impossible to attach, because it would end up entangled. In order to make the face stay straight, some kind of mechanism depending on the force of gravity would be needed. One solution for that could be rigidly ataching a stick to the edge of the disk (rotated by a stepper motor), making a hole on the top of the face and leave it hanging on the stick. Does that make sense? Anyways, I decided to think of another solution that would not 1) put too much pressure on the motor, 2) be difficult to implement in Fusion (like gravity) 3) generally be an ugly solution
+Long story short, I tweaked my sketch and this is what I came up with. All the essnetial info (material, dimension, etc) is hand-written so I am sorry for my handwritting! Hopefully the drawing is at least clear.
 
+Below is the overview
 
+![](box_head.png)
 
-## April 13th: Defining dimensions, tools, materials
+Below is the detailed depiction of head shaking motion 
 
+![](dead_head.png)
+
+Implementation in Fusion 360? I thought of starting with making the basic mechanisms - cams and the mechanism moving the head - first. Then move on to the nose picking motion that is similar in implementation, and lastly do the decorations - the head itself, hand, etc.
+Machines used to fabricate? Didn't know at that point. 
+How pieces are going to be attached? Using screws, bolts, as well as hot glue, which I realized was not a good idea. 
+And then...
 
 ## April 14th: I changed the idea!
 
