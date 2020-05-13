@@ -47,7 +47,7 @@ Long story short, I tweaked my sketch and this is what I came up with. All the e
 
 Below is the overview
 
-![](box_head.png)
+![](norm_box_head.png)
 
 Below is the detailed depiction of head shaking motion 
 
