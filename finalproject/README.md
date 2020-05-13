@@ -66,7 +66,10 @@ Especially this:
 
 ![](running.png)
 
-So I needed to have three easy mechanisms in one place. Here is what I came up with:
+![](kachok.png)
+
+So I needed to have three easy mechanisms in one place. So I came up with a Gym Machine which would have three movements: running, turning a disk like the automata in the picture above, and ehhhh stretching neck? shouting motivational quotes? (I had to add a third motion so anything could do the job):
+
 ![](IMG_1442.PNG)
 
 ## April 15th and 20th
