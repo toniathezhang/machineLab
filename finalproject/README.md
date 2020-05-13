@@ -6,13 +6,17 @@ The project is meant to be manufactured by 3D printing and laser cutting, as wel
 Fusion file: https://a360.co/3ctY64r
 
 Final Result (front):
+
 ![GitHub Logo](frontno.png)
 
 Final Result (front with joints):
+
 ![GitHub Logo](frontyes.png)
 
 
 FInal Result (back):
+
+![GitHub Logo](backno.png)
 
 
 ## April 1st: Initial Brainstorm - Themes&Ideas
