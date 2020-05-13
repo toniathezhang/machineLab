@@ -60,6 +60,12 @@ And then...
 
 ## April 14th: I changed the idea!
 
+Why? Because I did not want to challenge Fusion and its functions. Making the initial project in real life would be much easier. I realized that, because of the lack of gravity in Fusion and other things, that implementation would require a lot of unnecessary work. Which is why I chose to do something that would 100% work. For that, I had to give up my cams and think of some other mechanisms, while integrating all of them in one automata.
+I drew inspiration from some easy DIY automatas. Link here: https://youtu.be/-OJ1Yc2SwAs ("29 automatas in 6 minutes").
+Especially this:
+
+![](running.png)
+
 ## April 15th and 20th
 
 ## April 22nd
