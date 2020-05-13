@@ -7,7 +7,7 @@ Fusion file: https://a360.co/3ctY64r
 
 Final Result (front):
 Final Result (rendered):
-![GitHub Logo](Screenshot 2020-05-13 at 21.07.36.png)
+![GitHub Logo](Screenshot_2020-05-13_at_21.07.36.png)
 
 Final Result (front with joints):
 
