@@ -148,7 +148,36 @@ At this point, things look like this:
 
 ## May 6th: Final Touches
 
+We also agreed that it is necessary to ground the motors and give them some king of support. 
+While usually it would be done by mounting then onto something, in my case I decided that making them a box-slot and a platform might be easier. 
+Some platfors also serve decorative purposes and contribute to the "gym" feeling. For example, here I decided to add gym balls. 
+
+![](bols.png)
+
+Servo motor, on the other hand, could be mounted to a linkage that doesn't move, since there is nothing for it to hold on, and making another platform might ruin the aesthetic. So I added a hole to that linkage in order to later bolt the servo motor and the linkage together.
+
+![](servo.png)
+
+
 ## May 11th: More Final Touches
 
-Final Result (rendered):
+We are basically done!
+I added a ground panel and experimented with the rendering. 
+
 ![GitHub Logo](Gym_end.png)
+
+This is the final product!
+
+![](frontyes.png)
+
+## Further Discussion
+
+- Fabrication: everything should be laser-cut, except for the little boxes that hold the motors, shaft for moving the legs, body panel that has holes on two surfaces, cylindrycal platform, rods that are attached to the disk, disk, blue groud piece, balls, cupboard for the balls.
+
+- Other components needed: 2 stepper motors, 1 servo motor, 5 mm bolts and nuts, two 3 mm bolts and nuts, hot glue to stick the machine to the ground, fabric/paper for the legs.
+
+- Remaining concerns: hopefully things can be fabricated! hopefully next semester will not be online! other than that, no concerns. I don't expect things to turn out the way I wanted because I "hard-coded" some stuff, but I am very curious whether the machine can atually work out or what kind of issues will I see id I get the parts.
+
+- Difficulties and Learning Outcomes: actually, it turned out that there are some surprsing similiarities between hands-on and fusion. I learned the importance of planning and thinking through the details as much as possible and trying not to "hard-code" stuff. In both "realities" the implementation I had in my head was way easier than what it actually turned out to be. However, with each problem encountered (such as joint conflicts, component/body mechanichs, the order of making things and putting joints, realizing that something would not work in reality that works in Fusion and vice versa), I gained more knowledge and made sure that in most cases I did not repeat the same mistake.**The major difficulty for me personally was the lack of a mindset of a mechanichal engineer. Sometimes I would not understand the simplest motions, as well as how to design a mechanism for a motion that I have in mind** However, I think that for this, years of practice are needed, and we should not hurry. In the end, I grasped the basics of Fusion, explored a few functions by myself on youtube, and I am happy with the learning outcome. 
+
+
