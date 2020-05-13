@@ -33,7 +33,7 @@ I did some research, and I bumped into some amazing mechanisms that Tim Hunkin m
 
 So my initial sketch was inspired by this nose picking machine. I understand that nose picking alone can't be a hobby, so I added blinking and head shaking too. :-DDDDDDDD
 Here it is. 
-
+![](nose_picking.png)
 
 ## April 8th: Defining the sketch
 
